@@ -1,7 +1,6 @@
 
-  # Timeless Luxury Web/App (Community)
-
-  This is a code bundle for Timeless Luxury Web/App (Community). The original project is available at https://www.figma.com/design/pONykpRpNeYVPLvjV73WTc/Timeless-Luxury-Web-App--Community-.
+  # Timeless
+  This is a code bundle for Timeless. The original project is available at https://www.figma.com/design/pONykpRpNeYVPLvjV73WTc/Timeless.
 
   ## Running the code
 
